@@ -10,9 +10,7 @@ This repository consists of files required for end to end implementation and dep
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Technologies Used](#technologies-used)
 
-## App Link
-If you want to view the deployed model, click on the following link:<br />
-[ https://ml-senti-analysis.herokuapp.com/]( https://ml-senti-analysis.herokuapp.com/)
+
 
 
 ## About the App
